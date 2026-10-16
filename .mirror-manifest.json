@@ -3,7 +3,7 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "eric-teaching-polish",
   "version": "1.0.1",
-  "source_commit": "1d5e654b1a54ec0d72246f50889ef47ece142475",
+  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
