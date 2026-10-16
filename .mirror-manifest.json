@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "canonical_repository": "prest4u/eric-agent-skills",
+  "skill": "eric-teaching-polish",
+  "version": "1.0.1",
+  "source_commit": "82a4ab34051551d9e2b07ca1302c232886aacb76",
+  "managed_files": {
+    ".github/requirements-ci.txt": "6891fb781246d027888be8303e2aae6020c4b0ae8502cfa49ff99ecd770fd359",
+    ".github/workflows/ci.yml": "1f8878c4bb4259d61fbc9b294579b7e5aaaadefa4c2706fcaaecd1576b3efe86",
+    ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
+    "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
+    "LICENSE": "5c22156d56eba148899e472b10cf1662e6387d1b7f5aec552d9772fc29579ebe",
+    "README.md": "e0f9541b7f95e4770d380bbcfe6877a8a2fa5f9012429830e705523edd622b49",
+    "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
+    "SKILL.md": "9f1619d47aab22d300e5b52addaca1398b6c3ca35ba8c93aaaccb80bd7b8f9e0",
+    "THIRD_PARTY_NOTICES.md": "c023478f04b7816dcbab9df8a2c99812152fcabacad67ab429456b49b096a659",
+    "agents/openai.yaml": "0add46395b42f148dd242ea885c918a91ad00bda461d1b5a2d509ac2ecde08c1",
+    "references/classroom-cases.md": "572e35dacbfcabe5ff821f6af01094ece29c34f2a934e7632c431d92372ee389",
+    "references/negative-student-visible-examples.txt": "35829bd79ae6b694c6c205184a7ac63ff9338c8bf9fd3686121543ed59580141",
+    "references/visible-language-guide.md": "48b5c32ebe42cb1a457222e8c9dd5ee43f547d66e7b9041c571930ce30ddc5b8",
+    "scripts/test_validate_teaching_polish.py": "406e4d2b201782626bb308eca297bd246830a00ff52bc24490e5af0e6453adca",
+    "scripts/validate_teaching_polish.py": "8b0f462a4ee86f49abd87da68d5a2c8f86e62f6a672699f5514e6546ab76d3f5",
+    "test-prompts.json": "bf9698afedbca6f7b9142917f896bfd7185cb0b98b93d7aa7099e8aa24d71e1b"
+  }
+}
